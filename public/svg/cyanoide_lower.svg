@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="503" height="510" viewBox="0 0 503 510" xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision">
+  <path d="M 251,289 L 193,390 251,493 309,392 Z" fill="black" stroke="none" />
+  <path d="M 301,253 L 378,339 492,316 415,229 Z" fill="black" stroke="none" />
+  <path d="M 10,316 L 124,339 202,253 87,229 Z" fill="black" stroke="none" />
+  <path d="M 251,140 L 227,207 161,207 216,249 194,315 250,275 307,315 286,249 342,207 275,207 Z" fill="black" stroke="none" />
+  <path d="M 401,29 L 294,77 282,194 388,146 Z" fill="black" stroke="none" />
+  <path d="M 102,29 L 114,146 220,194 208,76 Z" fill="black" stroke="none" />
+</svg>
